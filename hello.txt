@@ -1,2 +1,3 @@
 merging document
-lets resolve conflit
+lets resolve the  conflict:wq
+
